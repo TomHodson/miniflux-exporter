@@ -9,7 +9,7 @@ import (
 
 	humanize "github.com/dustin/go-humanize"
 	"github.com/gorilla/feeds"
-	"github.com/miniflux/miniflux-go"
+	"github.com/miniflux/v2"
 	"github.com/sirupsen/logrus"
 )
 
